@@ -1,4 +1,4 @@
-## Docker compose-Run multiple docker conatiner
+## Docker compose-Run multiple docker container
 
 This repo articulates how to write Docker Compose file for running MongoDB and MongoExpress containers
 
